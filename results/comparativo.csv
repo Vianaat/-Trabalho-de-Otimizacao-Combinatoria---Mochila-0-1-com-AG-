@@ -1,0 +1,3 @@
+metodo,valor_obtido,tempo_execucao_s,gap_para_otimo_%
+Programacao Dinamica (exato),1563,0.004930,0.00
+Algoritmo Genetico (heuristico),1559,0.315055,0.26

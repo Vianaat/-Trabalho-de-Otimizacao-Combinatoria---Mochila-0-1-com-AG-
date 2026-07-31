@@ -1,0 +1,205 @@
+{
+  "capacity": 515,
+  "items": [
+    {
+      "id": 0,
+      "weight": 45,
+      "value": 24
+    },
+    {
+      "id": 1,
+      "weight": 6,
+      "value": 45
+    },
+    {
+      "id": 2,
+      "weight": 20,
+      "value": 38
+    },
+    {
+      "id": 3,
+      "weight": 13,
+      "value": 23
+    },
+    {
+      "id": 4,
+      "weight": 48,
+      "value": 79
+    },
+    {
+      "id": 5,
+      "weight": 10,
+      "value": 85
+    },
+    {
+      "id": 6,
+      "weight": 32,
+      "value": 14
+    },
+    {
+      "id": 7,
+      "weight": 6,
+      "value": 21
+    },
+    {
+      "id": 8,
+      "weight": 18,
+      "value": 39
+    },
+    {
+      "id": 9,
+      "weight": 37,
+      "value": 87
+    },
+    {
+      "id": 10,
+      "weight": 6,
+      "value": 81
+    },
+    {
+      "id": 11,
+      "weight": 17,
+      "value": 93
+    },
+    {
+      "id": 12,
+      "weight": 49,
+      "value": 79
+    },
+    {
+      "id": 13,
+      "weight": 31,
+      "value": 38
+    },
+    {
+      "id": 14,
+      "weight": 33,
+      "value": 85
+    },
+    {
+      "id": 15,
+      "weight": 22,
+      "value": 10
+    },
+    {
+      "id": 16,
+      "weight": 15,
+      "value": 99
+    },
+    {
+      "id": 17,
+      "weight": 32,
+      "value": 53
+    },
+    {
+      "id": 18,
+      "weight": 22,
+      "value": 29
+    },
+    {
+      "id": 19,
+      "weight": 18,
+      "value": 53
+    },
+    {
+      "id": 20,
+      "weight": 11,
+      "value": 21
+    },
+    {
+      "id": 21,
+      "weight": 29,
+      "value": 22
+    },
+    {
+      "id": 22,
+      "weight": 27,
+      "value": 54
+    },
+    {
+      "id": 23,
+      "weight": 43,
+      "value": 43
+    },
+    {
+      "id": 24,
+      "weight": 7,
+      "value": 68
+    },
+    {
+      "id": 25,
+      "weight": 39,
+      "value": 25
+    },
+    {
+      "id": 26,
+      "weight": 29,
+      "value": 20
+    },
+    {
+      "id": 27,
+      "weight": 40,
+      "value": 47
+    },
+    {
+      "id": 28,
+      "weight": 45,
+      "value": 89
+    },
+    {
+      "id": 29,
+      "weight": 28,
+      "value": 83
+    },
+    {
+      "id": 30,
+      "weight": 17,
+      "value": 100
+    },
+    {
+      "id": 31,
+      "weight": 9,
+      "value": 15
+    },
+    {
+      "id": 32,
+      "weight": 47,
+      "value": 39
+    },
+    {
+      "id": 33,
+      "weight": 23,
+      "value": 20
+    },
+    {
+      "id": 34,
+      "weight": 19,
+      "value": 22
+    },
+    {
+      "id": 35,
+      "weight": 29,
+      "value": 45
+    },
+    {
+      "id": 36,
+      "weight": 34,
+      "value": 91
+    },
+    {
+      "id": 37,
+      "weight": 28,
+      "value": 30
+    },
+    {
+      "id": 38,
+      "weight": 28,
+      "value": 55
+    },
+    {
+      "id": 39,
+      "weight": 18,
+      "value": 95
+    }
+  ]
+}
